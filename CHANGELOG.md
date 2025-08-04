@@ -8,3 +8,4 @@
 - fix: clarify the setup steps
 - chore: clarify the setup steps
 - chore: clarify the setup steps
+- chore: clarify the setup steps
